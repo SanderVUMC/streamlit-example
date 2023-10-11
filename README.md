@@ -1,6 +1,13 @@
-# Welcome to Streamlit!
+---
+title: Triennial Update
+emoji: 📉
+colorFrom: red
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.27.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
